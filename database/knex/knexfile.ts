@@ -34,7 +34,7 @@ class KnexConfigurator {
     // Connection string: postgres://postgres:4eV6BvsLxzvOMj1@challange8.flycast:5432
     // connection: "postgres://postgres:4eV6BvsLxzvOMj1@challange8.internal:5432/postgres", // Fly.io
 
-    connection: "postgresql://postgres:2bGG6AB6fe1B*-fBCgA2EdBg*c-CBG6b@viaduct.proxy.rlwy.net:50289/railway", // Railway
+    connection: "postgresql://postgres:Cabc1AGfCg6c-GBEaF*eE6-6EEFBegEc@monorail.proxy.rlwy.net:42413/railway", // Railway
     pool: {
       min: 2,
       max: 10,
